@@ -1,6 +1,6 @@
-# 📊 Business Analytics Dashboard – Python + Streamlit + MySQL
+# 📊 Business Analytics Dashboard Python + Streamlit + MySQL
 
-Welcome to the **Business Analytics Dashboard** project — a professional-grade, interactive analytics application built with **Python, Streamlit, MySQL, and Plotly**.
+Welcome to the **Business Analytics Dashboard** project a professional-grade, interactive analytics application built with **Python, Streamlit, MySQL, and Plotly**.
 
 Designed by a **data analyst and data scientist**, this dashboard connects to a live MySQL database, processes employee/customer data, and presents dynamic insights through **filterable charts, KPIs, and tables**. This project demonstrates **real-time business intelligence capabilities** ideal for executive decision-making.
 
